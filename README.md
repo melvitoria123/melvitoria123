@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💛
 
-<!--
-**melvitoria123/melvitoria123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*meu nome é Mel 🍯*
 
-Here are some ideas to get you started:
+- Estou estudando na Alura 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou me desenvolvendo na linguagem javaScript 👾
+
+### Você pode entrar em contato comigo 📬
+
+
+Mel.cruz@escola.pr.gov.br
+
+Mell.cruz_ 🐝
+
+![](https://media1.tenor.com/m/WWsiYy0FfBEAAAAC/bee-eyebrow-raise-vurge-bee.gif)
